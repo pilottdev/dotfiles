@@ -4,6 +4,7 @@
     "chat.disableAIFeatures": true,
     "chat.titleBar.openInAgentsWindow.enabled": false,
     "chat.titleBar.signIn.enabled": false,
+    "claudeCode.hideOnboarding": true,
     "claudeCode.preferredLocation": "sidebar",
     "editor.minimap.enabled": false,
     "explorer.compactFolders": false,
