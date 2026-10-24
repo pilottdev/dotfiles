@@ -6,6 +6,7 @@
     "chat.titleBar.signIn.enabled": false,
     "claudeCode.hideOnboarding": true,
     "claudeCode.preferredLocation": "sidebar",
+    "editor.formatOnSave": true,
     "editor.minimap.enabled": false,
     "explorer.compactFolders": false,
     "explorer.confirmDelete": false,
@@ -22,4 +23,16 @@
     "workbench.layoutControl.enabled": false,
     "workbench.secondarySideBar.defaultVisibility": "hidden",
     "workbench.startupEditor": "none",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[svelte]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
 }
